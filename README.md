@@ -7,5 +7,5 @@
 Уже пройдены курсы:
 
 - [Основы командной строки Linux](https://ru.hexlet.io/courses/cli-basics) - **100% пройдено**
-- [Программирование на Python](https://stepik.org/course/67/syllabus) **100% пройдено**
-- ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/) 99% пройдено
+- [Программирование на Python](https://stepik.org/course/67/syllabus) - **100% пройдено**
+- ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/) - **99% пройдено**
